@@ -12,7 +12,7 @@ Also do following<br />
 ```mkdir out```<br />
 ```cd ~/jasper/static```<br />
 ```mkdir cascade```<br />
-```copy haarcascade_frontalface_default.xml to ~/jasper/static/cascade```<br />
+```copy haarcascade_frontalface_default.xml ~/jasper/static/cascade/.```<br />
 
 You can use following Words for this module<br />
 WORDS = ["HACK", "CAM", "WEBCAM", "PHOTO"]
