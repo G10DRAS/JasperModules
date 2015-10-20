@@ -19,7 +19,7 @@ WORDS = ["HACK", "CAM", "WEBCAM", "PHOTO"]
 
 
 ##Currency Exchange Rate Calculator
-This Jasper module uses Yahoo Finance Xchange Services.<br />
+This Jasper module uses Yahoo Finance Xchange Services. This module is specially design to use offline STT PocketSphinx efficiently. <br />
 
 Install Semantic Lib<br />
 ```sudo pip install semantic``` 
