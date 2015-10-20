@@ -16,3 +16,13 @@ Also do following<br />
 
 You can use following Words for this module<br />
 WORDS = ["HACK", "CAM", "WEBCAM", "PHOTO"]
+
+
+##Currency Exchange Rate Calculator
+This Jasper module uses Yahoo Finance Xchange Services.<br />
+
+Install Semantic Lib<br />
+```sudo pip install semantic``` 
+
+You can use following Words for this module<br />
+WORDS = ["CURRENCY", "EXCHANGE"]
