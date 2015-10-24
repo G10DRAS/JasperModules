@@ -17,8 +17,8 @@ def handle(text, mic, profile):
                             "SWISS", "FRANC", "BRITISH", "POUND", "CHINESE", "YUAN"]
 
     # Comment out below two lines if you are using Jasper in TEXT Mode			
-    math_stt_engine = mic.active_stt_engine.get_instance('rateexch', phrases)
-    mic = Mic(mic.speaker, mic.passive_stt_engine, math_stt_engine)
+    currexch_stt_engine = mic.active_stt_engine.get_instance('rateexch', phrases)
+    mic = Mic(mic.speaker, mic.passive_stt_engine, currexch_stt_enginess)
 
     serviceNum = NumberService()
 	
