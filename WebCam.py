@@ -61,7 +61,7 @@ def handle(text, mic, profile):
 
 def isValid(text):
     """
-        Returns True if the input is related to jokes/humor.
+        Returns True if the input is related to Webcam.
 
         Arguments:
         text -- user-input, typically transcribed speech
