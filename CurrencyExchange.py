@@ -56,10 +56,10 @@ def handle(text, mic, profile):
 
     while True:
             mic.say(" First Currency?")
-            currency_from = convertToCode(mic.activeListenFText(MUSIC=True))
+            currency_from = convertToCode(mic.activeListen(MUSIC=True))
 
             mic.say(" Second Currency?")
-            currency_to = convertToCode( mic.activeListenFText(MUSIC=True))
+            currency_to = convertToCode( mic.activeListen(MUSIC=True))
             
             if currency_from != "" and currency_to != "":
                 mic.say(" Getting exchange rate of " + currency_from + " against " + currency_to + ".")
