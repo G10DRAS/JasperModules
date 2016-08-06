@@ -33,6 +33,7 @@ This Tweeter module is to send tweets, get Notifications, get whats treanding fo
 
 Install Unidecode Lib<br />
 ```sudo pip install unidecode``` 
+
 Install tweepy Lib<br />
 ```git clone git://github.com/tweepy/tweepy.git```
 ```cd tweepy```
@@ -43,7 +44,7 @@ WORDS = ["TWITTER"]
 
 profile.yml config for twitter module<br />
 
-* From https://apps.twitter.com/ get all the following KEYS by creating a twitter application.
+* From https://apps.twitter.com get following KEYS by creating a twitter application.
 
 ```twitter:
   # Access Level Read and write
@@ -53,3 +54,17 @@ profile.yml config for twitter module<br />
   TW_ACCESS_TOKEN_SECRET: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
   WOEID: '<WOEID for your city or area>' 
   ```
+
+Use following phrases<br />
+
+* To send a tweet
+```Send a tweet on tweeter```
+
+* To get twitter treands
+```What's trending on tweeter```
+
+* To get tweeter notifications
+```Get tweeter notifications```
+
+* To get public tweets
+```Get tweets on twitter```
