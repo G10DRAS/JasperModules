@@ -36,7 +36,9 @@ Install Unidecode Lib<br />
 
 Install tweepy Lib<br />
 ```git clone git://github.com/tweepy/tweepy.git```
+
 ```cd tweepy```
+
 ```python setup.py install```
 
 You can use following Words for this module<br />
@@ -46,7 +48,8 @@ profile.yml config for twitter module<br />
 
 * From https://apps.twitter.com get following KEYS by creating a twitter application.
 
-```twitter:
+```
+twitter:
   # Access Level Read and write
   TW_CONSUMER_KEY: 'xxxxxxxxxxxxxxxxxxxx'
   TW_CONSUMER_SECRET: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
