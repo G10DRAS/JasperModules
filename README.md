@@ -61,13 +61,17 @@ twitter:
 Use following phrases<br />
 
 * To send a tweet
+
 ```Send a tweet on tweeter```
 
 * To get twitter treands
+
 ```What's trending on tweeter```
 
 * To get tweeter notifications
+
 ```Get tweeter notifications```
 
 * To get public tweets
+
 ```Get tweets on twitter```
