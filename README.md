@@ -62,21 +62,21 @@ Use following phrases<br />
 
 * To send a tweet
 
-```Send a tweet on tweeter```
+```Send a tweet on tweeter```<br />
 
 * To get twitter treands
 
-```What's trending on tweeter```
+```What's trending on tweeter```<br />
 
 * To get tweeter notifications
 
-```Get tweeter notifications```
+```Get tweeter notifications```<br />
 
 * To get public tweets
 
-```Get tweets on twitter```
+```Get tweets on twitter```<br />
 
 
 ##OpenWeatherMap Module
-Get Current Weather Forecast, Weather Forecast for Next Week, Weather Forecast of Next Day
-Coming soon....
+Get Current Weather Forecast, Weather Forecast for Next Week, Weather Forecast of Next Day. <br />
+Coming soon.... <br />
