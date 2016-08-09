@@ -29,7 +29,7 @@ WORDS = ["CURRENCY", "EXCHANGE"]
 
 
 ##Twitter
-This Tweeter module is to send tweets, get Notifications, get whats treanding for your city and get public tweets from Tweeter. <br />
+Tweeter module to send tweets, get Notifications, get whats treanding for your city and get public tweets from Tweeter. <br />
 
 Install Unidecode Lib<br />
 ```sudo pip install unidecode``` 
@@ -75,3 +75,8 @@ Use following phrases<br />
 * To get public tweets
 
 ```Get tweets on twitter```
+
+
+##OpenWeatherMap Module
+Get Current Weather Forecast, Weather Forecast for Next Week, Weather Forecast of Next Day
+Coming soon....
