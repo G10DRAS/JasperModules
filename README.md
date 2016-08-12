@@ -80,3 +80,7 @@ Use following phrases<br />
 ##OpenWeatherMap Module
 Get Current Weather Forecast, Weather Forecast for Next Week, Weather Forecast of Next Day. <br />
 Coming soon.... <br />
+
+##Tank Battle Game
+Voice Controlled Tank Battle Game. <br />
+Coming soon.... <br />
