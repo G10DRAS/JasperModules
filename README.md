@@ -82,5 +82,5 @@ Get Current Weather Forecast, Weather Forecast for Next Week, Weather Forecast o
 Coming soon.... <br />
 
 ##Tank Battle Game
-Voice Controlled Tank Battle Game. <br />
+Voice Controlled Tank Battle Game. Destroy Enemy Tank by controlling your FURRY with your voice<br />
 Coming soon.... <br />
