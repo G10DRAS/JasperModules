@@ -15,7 +15,7 @@ Also do following<br />
 ```cp haarcascade_frontalface_default.xml ~/jasper/static/cascade/.```<br />
 
 You can use following Words for this module<br />
-WORDS = ["HACK", "CAM", "WEBCAM", "PHOTO"]
+WORDS = ["SELFIE", "CLICK", "SMILE", "PHOTO"]
 
 
 ##Currency Exchange Rate Calculator
