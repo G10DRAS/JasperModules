@@ -98,7 +98,23 @@ OpenWeatherMap:
    temp_unit: 'fahrenheit'       # 'kelvin', 'celsius' or 'fahrenheit' 
    
   ```
-  
+
+Use following phrases<br />
+
+* To get current weather report
+
+```Hows weather today```<br />
+```Get current forecast```<br />
+
+* To get next days weather report
+
+```Hows weather tommorow```<br />
+```Weather forecast for tommorow```<br />
+
+* To get weekly forecast
+
+```Get weekly forecast```<br />
+
   
 ##Tank Battle Game (FURRY)
 Voice Controlled Tank Battle Game. Destroy Enemy Tank by controlling your FURRY with your voice. //===-- <br />
