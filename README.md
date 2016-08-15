@@ -79,8 +79,27 @@ Use following phrases<br />
 
 ##OpenWeatherMap Module
 Get Current Weather Forecast, Weather Forecast for Next Week, Weather Forecast of Next Day. <br />
-Coming soon.... <br />
 
+Install Semantic Lib<br />
+```sudo pip install semantic``` 
+
+Install pyowm (A Python wrapper around the OpenWeatherMap web API) <br />
+```sudo pip install pyowm``` 
+
+You can signup for a free API key [on the OWM website](https://home.openweathermap.org/users/sign_up)
+
+profile.yml config for Open Weather Map module<br />
+
+```
+OpenWeatherMap:
+   api_key: 'xxxxxxx646464564xxxxxxxxxx'
+   city_name: 'Tokyo'
+   country: 'JP'
+   temp_unit: 'fahrenheit'       # 'kelvin', 'celsius' or 'fahrenheit' 
+   
+  ```
+  
+  
 ##Tank Battle Game (FURRY)
 Voice Controlled Tank Battle Game. Destroy Enemy Tank by controlling your FURRY with your voice. //===-- <br />
 Coming soon.... <br />
