@@ -62,19 +62,19 @@ Use following phrases<br />
 
 * To send a tweet
 
-```Send a tweet on tweeter```<br />
+    ```Send a tweet on tweeter```<br />
 
 * To get twitter treands
 
-```What's trending on tweeter```<br />
+    ```What's trending on tweeter```<br />
 
 * To get tweeter notifications
 
-```Get tweeter notifications```<br />
+    ```Get tweeter notifications```<br />
 
 * To get public tweets
 
-```Get tweets on twitter```<br />
+    ```Get tweets on twitter```<br />
 
 
 ##OpenWeatherMap Module
@@ -103,17 +103,17 @@ Use following phrases<br />
 
 * To get current weather report
 
-```Hows weather today```<br />
-```Get current forecast```<br />
+    ```Hows weather today```<br />
+    ```Get current forecast```<br />
 
 * To get next days weather report
 
-```Hows weather tommorow```<br />
-```Weather forecast for tommorow```<br />
+    ```Hows weather tommorow```<br />
+    ```Weather forecast for tommorow```<br />
 
 * To get weekly forecast
 
-```Get weekly forecast```<br />
+    ```Get weekly forecast```<br />
 
   
 ##Tank Battle Game (FURRY)
