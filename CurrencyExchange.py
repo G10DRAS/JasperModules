@@ -2,16 +2,13 @@
 import re
 import json
 import urllib2
-import logging
 from urllib import urlopen
 from semantic.numbers import NumberService
 from client.mic import Mic
 
 WORDS = ["CURRENCY", "EXCHANGE"]
 		
-		
 def handle(text, mic, profile):
-
     # Vocab used in Currency Exchange Rate Module
     phrases = ["YES", "NO", "JAPANESE", "YEN", "AMERICAN", "DOLLAR", "INDIAN", "RUPEES", "EURO",
                             "SWISS", "FRANC", "BRITISH", "POUND", "CHINESE", "YUAN"]
@@ -35,7 +32,6 @@ def handle(text, mic, profile):
         return ''
 		
     def currencyConverterYahoo(currency_from,currency_to,currency_input):
-
         yql_base_url = "https://query.yahooapis.com/v1/public/yql"
         yql_query = 'select%20*%20from%20yahoo.finance.xchange%20where%20pair%20in%20("'+currency_from+currency_to+'")'
         yql_query_url = yql_base_url + "?q=" + yql_query + "&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys"
@@ -45,21 +41,12 @@ def handle(text, mic, profile):
         currency_output = currency_input * float(yql_json['query']['results']['rate']['Rate'])
         return currency_output
 
-    def currencyConverterRateExch(currency_from,currency_to,currency_input):
-
-        api_url = "http://rate-exchange.appspot.com/currency?"
-        urlcurr = api_url + "from=" + currency_from + "&to=" + currency_to
-        jsonurl = urllib2.urlopen(urlcurr)
-        rate_json = json.loads(jsonurl.read())
-        currency_output = currency_input * float(rate["rate"])
-        return currency_output
-
     while True:
             mic.say(" First Currency?")
-            currency_from = convertToCode(mic.activeListen(MUSIC=True))
+            currency_from = convertToCode(mic.activeListen())
 
             mic.say(" Second Currency?")
-            currency_to = convertToCode( mic.activeListen(MUSIC=True))
+            currency_to = convertToCode( mic.activeListen())
             
             if currency_from != "" and currency_to != "":
                 mic.say(" Getting exchange rate of " + currency_from + " against " + currency_to + ".")
@@ -81,7 +68,7 @@ def handle(text, mic, profile):
                     mic.say(" Okay, here is the exchange rate.")
                     mic.say(" It is approximately " + rateStr + " " + currency_to + " for " + currency_input_str + " " + currency_from + " .")
                     mic.say(" Do you want to continue?")
-                    ans = mic.activeListenFText(MUSIC=True)
+                    ans = mic.activeListen()
                     if "NO" in ans.split():
                         break 
                     continue 
@@ -90,6 +77,5 @@ def handle(text, mic, profile):
                 continue 
         
 def isValid(text):
-
     return any(word in text.upper() for word in WORDS)		
 
