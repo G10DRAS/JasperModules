@@ -16,21 +16,6 @@ Also do following<br />
 
 You can use following Words for this module<br />
 WORDS = ["SELFIE", "CLICK", "SMILE", "PHOTO"]
-
-Dialog with Jasper<br />
-
-        YOU: JASPER<br />
-        JASPER: High Beep<br />    
-        YOU: Start Currency Rate Calculator<br />
-        JASPER: Low Beep<br />
-        JASPER: First Currency?<br />
-        YOU: American Dollar<br />
-        JASPER: Second Currency?<br />
-        YOU: Japanese Yen<br />
-        JASPER: Getting exchange rate of USD against JPY<br />
-        JASPER: It is approximately 106.15 JPY for 1 USD<br />
-        JASPER: Do you want to continue?<br />   
-        YOU: YES/NO<br />    
      
 ##Currency Exchange Rate Calculator
 This Jasper module uses Yahoo Finance Xchange Services. This module is specially design to use offline STT PocketSphinx efficiently. <br />
@@ -41,7 +26,20 @@ Install Semantic Lib<br />
 You can use following Words for this module<br />
 WORDS = ["CURRENCY", "EXCHANGE"]
 
+Dialog with Jasper<br />
 
+        YOU: JASPER
+        JASPER: High Beep
+        YOU: Start Currency Rate Calculator
+        JASPER: Low Beep
+        JASPER: First Currency?
+        YOU: American Dollar
+        JASPER: Second Currency?
+        YOU: Japanese Yen
+        JASPER: Getting exchange rate of USD against JPY
+        JASPER: It is approximately 106.15 JPY for 1 USD
+        JASPER: Do you want to continue?
+        YOU: YES/NO
 
 ##Twitter
 Tweeter module to send tweets, get Notifications, get whats treanding for your city and get public tweets from Tweeter. <br />
