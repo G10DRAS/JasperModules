@@ -96,7 +96,6 @@ OpenWeatherMap:
    city_name: 'Tokyo'
    country: 'JP'
    temp_unit: 'fahrenheit'       # 'kelvin', 'celsius' or 'fahrenheit' 
-   
   ```
 
 Use following phrases<br />
