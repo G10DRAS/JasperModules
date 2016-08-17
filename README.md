@@ -4,6 +4,8 @@ Custom Jasper Modules
 ##OpenCV Face Detect Module
 This Jasper module uses OpenCV (Open Source Computer Vision) library and detect a Faces using USB Webcam, once a face is detected it then click a photo of that Face and save image in a user directory.<br />
 
+Webcam: Logicool HD C270 (Other similar webcam will work)<br />
+
 Install OpenCV Lib<br />
 ```sudo apt-get install libopencv-dev python-opencv python-dev``` 
 
