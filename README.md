@@ -129,7 +129,17 @@ Use following phrases<br />
 
     ```Get weekly forecast```<br />
 
-  
+
+##Speech Recognition Jukebox (SRJuke)
+Play your favorite song by saying song title or play internet radio (JAZ, BLUE, POP...). <br />
+
+Sample phrases are...<br />
+
+          Play Radio Blue
+          Play Thriller by Michael Jackson
+          Play David Guetta Discography
+          
+
 ##Tank Battle Game (FURRY)
 Voice Controlled Tank Battle Game. Destroy Enemy Tank by controlling your FURRY with your voice. //===-- <br />
 Coming soon.... <br />
