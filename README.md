@@ -131,13 +131,14 @@ Use following phrases<br />
 
 
 ##Speech Recognition Jukebox (SRJuke)
-Play your favorite song by saying song title or play internet radio (JAZ, BLUE, POP...). <br />
+Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...). <br />
 
 Sample phrases are...<br />
 
-          Play Radio Blue
-          Play Thriller by Michael Jackson
-          Play David Guetta Discography
+          Play Radio Jazz (Play Jazz Music on Internet Radio) 
+          Play Thriller by Michael Jackson (Play song Thriller)
+          Play David Guetta Discography (Play David Guetta Album)
+          Play Dangerous Moonwalker and Cheap Thrills (Play 3 selected songs back 2 back)
           
 
 ##Tank Battle Game (FURRY)
