@@ -132,6 +132,7 @@ Use following phrases<br />
 
 ##Speech Recognition Jukebox (SRJuke)
 Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...). <br />
+Support Voice Command: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
 
 Sample phrases are...<br />
 
