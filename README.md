@@ -141,16 +141,10 @@ Sample phrases are...<br />
           Play David Guetta Discography (Play David Guetta Album)
           Play Dangerous Moonwalker and Cheap Thrills (Play 3 selected songs back 2 back)
           
-##Telegram Bot (Talk & Reply to users)
+##Telegram Bot (Talk & Reply to Bot Users)
 You as a Telegram Bot, listen to quiries from your bot users and reply or send answers to them by talking in to Mic.
 
-
-Sample phrases are...<br />
-
-          Play Radio Jazz (Play Jazz Music on Internet Radio) 
-          Play Thriller by Michael Jackson (Play song Thriller)
-          Play David Guetta Discography (Play David Guetta Album)
-          Play Dangerous Moonwalker and Cheap Thrills (Play 3 selected songs back 2 back)
+Coming soon..... Stay tune....
           
 ##Tank Battle Game (FURRY)
 Voice Controlled Tank Battle Game. Destroy Enemy Tank by controlling your FURRY with your voice. //===-- <br />
