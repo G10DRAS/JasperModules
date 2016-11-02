@@ -99,7 +99,7 @@ Install Semantic Lib<br />
 ```sudo pip install semantic``` 
 
 Install pyowm (A Python wrapper around the OpenWeatherMap web API) <br />
-```sudo pip install pyowm==2.3.2``` 
+```sudo pip install pyowm==2.5``` 
 
 You can signup for a free API key [on the OWM website](https://home.openweathermap.org/users/sign_up)
 
