@@ -7,7 +7,7 @@ from semantic.numbers import NumberService
 WORDS = ["WEATHER","FORECAST"]
 PRIORITY = 4
 
-def handle(text, mic, micYN, profile):
+def handle(text, mic, profile):
 
     serviceNum = NumberService()
     
