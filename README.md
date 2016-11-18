@@ -145,9 +145,3 @@ Sample phrases are...<br />
 You as a Telegram Bot, listen to quiries from your bot users and reply or send answers to them by talking in to Mic.
 
 Coming soon..... Stay tune....
-          
-##Tank Battle Game (FURRY)
-Voice Controlled Tank Battle Game. Destroy Enemy Tank by controlling your FURRY with your voice. //===-- <br />
-Coming soon.... <br />
-
-![Alt text](https://github.com/G10DRAS/JasperModules/blob/master/TankGame.jpg "Tank Game")
