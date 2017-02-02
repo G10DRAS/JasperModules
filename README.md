@@ -132,6 +132,12 @@ Use following phrases<br />
 ##Jasper Support Forum Posts
 This Jasper module fetch top posts from Jasper Support Forum and speak out author and title of post.<br />
 
+Use following phrases<br />
+
+```Check Jasper Support Forum Posts```<br />
+```See recent forum posts```<br />
+```Check the forum```<br />
+    
 ##Speech Recognition Jukebox (SRJuke)
 Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...). <br />
 Supported Voice Commands: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
