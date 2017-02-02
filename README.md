@@ -29,20 +29,20 @@ You can use following Words for this module<br />
 WORDS = ["CURRENCY", "EXCHANGE"]
 
 Dialog with Jasper<br />
-
-        YOU: JASPER
-        JASPER: High Beep
-        YOU: Start Currency Rate Calculator
-        JASPER: Low Beep
-        JASPER: First Currency?
-        YOU: American Dollar
-        JASPER: Second Currency?
-        YOU: Japanese Yen
-        JASPER: Getting exchange rate of USD against JPY
-        JASPER: It is approximately 106.15 JPY for 1 USD
-        JASPER: Do you want to continue?
-        YOU: YES/NO
-
+```
+YOU: JASPER
+JASPER: High Beep
+YOU: Start Currency Rate Calculator
+JASPER: Low Beep
+JASPER: First Currency?
+YOU: American Dollar
+JASPER: Second Currency?
+YOU: Japanese Yen
+JASPER: Getting exchange rate of USD against JPY
+JASPER: It is approximately 106.15 JPY for 1 USD
+JASPER: Do you want to continue?
+YOU: YES/NO
+```
 ##Twitter
 Tweeter module to send tweets, get Notifications, get whats treanding for your city and get public tweets from Tweeter. <br />
 
@@ -143,12 +143,12 @@ Play your favorite song by saying song title or play internet radio (JAZZ, BLUE,
 Supported Voice Commands: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
 
 Sample phrases are...<br />
-
-          Play Radio Jazz (Play Jazz Music on Internet Radio) 
-          Play Thriller by Michael Jackson (Play song Thriller)
-          Play David Guetta Discography (Play David Guetta Album)
-          Play Dangerous Moonwalker and Cheap Thrills (Play 3 selected songs back 2 back)
-          
+```
+Play Radio Jazz (Play Jazz Music on Internet Radio) 
+Play Thriller by Michael Jackson (Play song Thriller)
+Play David Guetta Discography (Play David Guetta Album)
+Play Dangerous Moonwalker and Cheap Thrills (Play 3 selected songs back 2 back)
+```
 ##Telegram Bot (Talk & Reply to Bot Users)
 You as a Telegram Bot, listen to quiries from your bot users and reply or send answers to them by talking in to Mic.
 
