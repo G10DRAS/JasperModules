@@ -71,25 +71,25 @@ twitter:
   TW_ACCESS_TOKEN: 'xxxxxxxx-xxxxxxxxxxxxxxxxxxxxx'
   TW_ACCESS_TOKEN_SECRET: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
   WOEID: '<WOEID for your city or area>' 
-  ```
+```
 
 Use following phrases<br />
 
-* To send a tweet
+To send a tweet
 
-    ```Send a tweet on tweeter```<br />
+```Send a tweet on tweeter```<br />
 
-* To get twitter treands
+To get twitter treands
 
-    ```What's trending on tweeter```<br />
+```What's trending on tweeter```<br />
 
-* To get tweeter notifications
+To get tweeter notifications
 
-    ```Get tweeter notifications```<br />
+```Get tweeter notifications```<br />
 
-* To get public tweets
+To get public tweets
 
-    ```Get tweets on twitter```<br />
+```Get tweets on twitter```<br />
 
 
 ##OpenWeatherMap Module
@@ -111,33 +111,33 @@ OpenWeatherMap:
    city_name: 'Tokyo'
    country: 'JP'
    temp_unit: 'fahrenheit'       # 'kelvin', 'celsius' or 'fahrenheit' 
-  ```
+```
 
 Use following phrases<br />
 
-* To get current weather report
+To get current weather report
 
-    ```Hows weather today```<br />
-    ```Get current forecast```<br />
+```Hows weather today```<br />
+```Get current forecast```<br />
 
-* To get next days weather report
+To get next days weather report
 
-    ```Hows weather tommorow```<br />
-    ```Weather forecast for tommorow```<br />
+```Hows weather tommorow```<br />
+```Weather forecast for tommorow```<br />
 
-* To get weekly forecast
+To get weekly forecast
 
-    ```Get weekly forecast```<br />
+```Get weekly forecast```<br />
 
 ##Jasper Support Forum Posts
 This Jasper module fetch top posts from Jasper Support Forum and speak out author and title of post.<br />
 
 Use following phrases<br />
-
-```Check Jasper Support Forum Posts```<br />
-```See recent forum posts```<br />
-```Check the forum```<br />
-    
+```
+Check Jasper Support Forum Posts
+See recent forum posts
+Check the forum
+```
 ##Speech Recognition Jukebox (SRJuke)
 Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...). <br />
 Supported Voice Commands: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
