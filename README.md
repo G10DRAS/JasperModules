@@ -129,6 +129,8 @@ Use following phrases<br />
 
     ```Get weekly forecast```<br />
 
+##Jasper Support Forum Posts
+This Jasper module fetch top posts from Jasper Support Forum and speak out author and title of post.<br />
 
 ##Speech Recognition Jukebox (SRJuke)
 Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...). <br />
