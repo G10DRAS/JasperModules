@@ -7,7 +7,7 @@ import re
 import feedparser
 from Unidecode import unidecode
 
-WORDS = ["FORUM", "SUPPORT"]
+WORDS = ["JASPER", "SUPPORT", "FORUM"]
 
 def getJasperSupportForum(maxResults=5):
 
