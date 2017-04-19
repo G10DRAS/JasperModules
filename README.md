@@ -1,7 +1,7 @@
 # JasperModules
 Custom Jasper Modules
 
-##OpenCV Face Detect Module
+## OpenCV Face Detect Module
 This Jasper module uses OpenCV (Open Source Computer Vision) library and detect a Faces using USB Webcam, once a face is detected it then click a photo of that Face and save image in a user directory.<br />
 
 Webcam: Logicool HD C270 (Other similar webcam will work)<br />
@@ -19,7 +19,7 @@ Also do following<br />
 You can use following Words for this module<br />
 WORDS = ["SELFIE", "CLICK", "SMILE", "PHOTO"]
      
-##Currency Exchange Rate Calculator
+## Currency Exchange Rate Calculator
 This Jasper module uses Yahoo Finance Xchange Services. This module is specially design to use offline STT PocketSphinx efficiently. <br />
 
 Install Semantic Lib<br />
@@ -43,7 +43,7 @@ JASPER: It is approximately 106.15 JPY for 1 USD
 JASPER: Do you want to continue?
 YOU: YES/NO
 ```
-##Twitter
+## Twitter
 Tweeter module to send tweets, get Notifications, get whats treanding for your city and get public tweets from Tweeter. <br />
 
 Install Unidecode Lib<br />
@@ -92,7 +92,7 @@ To get public tweets
 ```Get tweets on twitter```<br />
 
 
-##OpenWeatherMap Module
+## OpenWeatherMap Module
 Get Current Weather Forecast, Weather Forecast for Next Week, Weather Forecast of Next Day. <br />
 
 Install Semantic Lib<br />
@@ -129,7 +129,7 @@ To get weekly forecast
 
 ```Get weekly forecast```<br />
 
-##Jasper Support Forum Posts
+## Jasper Support Forum Posts
 This Jasper module fetch top posts from Jasper Support Forum and speak out author and title of post.<br />
 
 Use following phrases<br />
@@ -138,7 +138,7 @@ Check Jasper Support Forum Posts
 See recent forum posts
 Check the forum
 ```
-##Speech Recognition Jukebox (SRJuke)
+## Speech Recognition Jukebox (SRJuke)
 Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...). <br />
 Supported Voice Commands: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
 
@@ -149,7 +149,7 @@ Play Thriller by Michael Jackson (Play song Thriller)
 Play David Guetta Discography (Play David Guetta Album)
 Play Dangerous Moonwalker and Cheap Thrills (Play 3 selected songs back 2 back)
 ```
-##Telegram Bot (Talk & Reply to Bot Users)
+## Telegram Bot (Talk & Reply to Bot Users)
 You as a Telegram Bot, listen to quiries from your bot users and reply or send answers to them by talking in to Mic.
 
 Coming soon..... Stay tune....
