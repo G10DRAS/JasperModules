@@ -149,7 +149,3 @@ Play Thriller by Michael Jackson (Play song Thriller)
 Play David Guetta Discography (Play David Guetta Album)
 Play Dangerous Moonwalker and Cheap Thrills (Play 3 selected songs back 2 back)
 ```
-## Telegram Bot (Talk & Reply to Bot Users)
-You as a Telegram Bot, listen to quiries from your bot users and reply or send answers to them by talking in to Mic.
-
-Coming soon..... Stay tune....
