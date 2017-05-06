@@ -1,4 +1,4 @@
-# JasperModules
+# Jasper Modules
 Custom Jasper Modules
 
 ## OpenCV Face Detect Module
@@ -129,23 +129,12 @@ To get weekly forecast
 
 ```Get weekly forecast```<br />
 
-## Jasper Support Forum Posts
-This Jasper module fetch top posts from Jasper Support Forum and speak out author and title of post.<br />
+## Support Forum Posts
+This module fetch top posts from Support Forum and speak out author and title of post.<br />
 
 Use following phrases<br />
 ```
-Check Jasper Support Forum Posts
+Check Support Forum Posts
 See recent forum posts
 Check the forum
-```
-## Speech Recognition Jukebox (SRJuke)
-Play your favorite song by saying song title or play internet radio (JAZZ, BLUE, ROCK, POP...). <br />
-Supported Voice Commands: PLAY, PAUSE, STOP, NEXT, PREV, SHUFFLE, PLAYALL, RESUME, PLAYLIST
-
-Sample phrases are...<br />
-```
-Play Radio Jazz (Play Jazz Music on Internet Radio) 
-Play Thriller by Michael Jackson (Play song Thriller)
-Play David Guetta Discography (Play David Guetta Album)
-Play Dangerous Moonwalker and Cheap Thrills (Play 3 selected songs back 2 back)
 ```
